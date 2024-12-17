@@ -154,9 +154,9 @@ body {
 .header2{
     width: 100%;
     height: calc(100vh - 68px);
-    background-image: url(https://virginiesuys.be/wp-content/uploads/2018/03/zza-1920x1080.jpg); 
+/*     background-image: url(https://virginiesuys.be/wp-content/uploads/2018/03/zza-1920x1080.jpg);  */
     background-size : cover ;
-    /* background-image: url(https://c.wallhere.com/photos/a2/3b/landscape_nature_mountains_snow_snowy_mountain_snowy_peak-1556011.jpg!d);  */
+    background-image: url(https://c.wallhere.com/photos/a2/3b/landscape_nature_mountains_snow_snowy_mountain_snowy_peak-1556011.jpg!d); 
     padding :20px;
     position: relative;
     display: flex;
